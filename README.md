@@ -3,7 +3,7 @@
 
 A basic Java GUI calculator with support for parenthetical expressions and storing of the last result.
 
-jcalc supports addition, subtraction, multiplication, division, and exponentiation, plus modulo, with the $+$, $-$, $*$, $/$, and ^, % operators and standard PEMDAS order of operations:
+jcalc supports addition, subtraction, multiplication, division, and exponentiation, plus modulo, with the +, -, \*, /, and ^, % operators and standard PEMDAS order of operations:
 
 ```Java
 5 + 5 * 3 = 20
